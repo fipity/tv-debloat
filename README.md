@@ -68,3 +68,7 @@ Screenshots of every step are in `shots/`.
   (after a system update), *Restore everything this app disabled*.
 - **Home screen**: install TVHome and switch between it and the stock launcher (Fire OS won't allow other launchers).
 - Per-device state and a copy of each device's original package state: `~/.config/tv-control/<device>/`.
+
+## License
+Code: MIT, see [`LICENSE`](LICENSE). The wallpaper photos keep their own licenses (CC BY-SA / CC0, see
+[`CREDITS.txt`](launcher-source/assets/walls/CREDITS.txt)), and logos in the screenshots belong to their owners.
