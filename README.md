@@ -1,6 +1,6 @@
 # Sony BRAVIA (Android TV 10) debloat + custom home screen
 
-TV: Sony BRAVIA 4K UR2, 192.168.0.108. Done 2026-10-26.
+TV: Sony BRAVIA 4K UR2, 2026-10-26.
 
 | Before (stock Google TV) | After (TVHome launcher) |
 |---|---|
