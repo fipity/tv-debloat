@@ -1,0 +1,4 @@
+adb-shell[async]==0.4.4
+rsa==4.9.1
+pyasn1==0.6.4
+cryptography

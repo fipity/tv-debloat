@@ -1,0 +1,24 @@
+# telemetry / tracking
+tv.samba.ssm
+com.sonyericsson.idd.agent
+com.qterics.da.product
+com.sony.dtv.da.service
+com.sony.dtv.sonybugreportsys
+com.google.android.tv.bugreportsender
+com.google.android.feedback
+# ads / promos
+com.sony.dtv.promos
+# features you don't use (kept: Chromecast)
+com.sony.dtv.airplayapp
+com.sony.dtv.homekit
+com.google.android.katniss
+com.google.android.tv.assistant
+com.sony.dtv.assistantadapter
+com.mediatek.wfd
+com.sony.dtv.networkapp.wifidirect
+com.sony.dtv.recapp
+com.sony.dtv.timers
+com.sony.dtv.reminderservice
+# stock launcher + its ad/recommendation feed (replaced by local.tvhome)
+com.google.android.tvlauncher
+com.google.android.tvrecommendations
